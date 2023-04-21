@@ -9,13 +9,13 @@ Taking the frontend of this application to the next level by implementing a func
       
 ## Table of Contents
       
-- [Installation](https://github.com/banditheelerpdx/read-my-node#installation)
-- [Usage](https://github.com/banditheelerpdx/read-my-node#usage)
-- [License](https://github.com/banditheelerpdx/read-my-node#license)
-- [Contributing](https://github.com/banditheelerpdx/read-my-node#contributing)
-- [Tests](https://github.com/banditheelerpdx/read-my-node#tests)
-- [Questions](https://github.com/banditheelerpdx/read-my-node#questions)
-- [Contact](https://github.com/banditheelerpdx/read-my-node#contact)
+- [Installation](https://github.com/banditheelerpdx/backend-capitalism#installation)
+- [Usage](https://github.com/banditheelerpdx/backend-capitalism#usage)
+- [License](https://github.com/banditheelerpdx/backend-capitalism#license)
+- [Contributing](https://github.com/banditheelerpdx/backend-capitalism#contributing)
+- [Tests](https://github.com/banditheelerpdx/backend-capitalism#tests)
+- [Questions](https://github.com/banditheelerpdx/backend-capitalism#questions)
+- [Contact](https://github.com/banditheelerpdx/backend-capitalism#contact)
 
 ## Installation
       
