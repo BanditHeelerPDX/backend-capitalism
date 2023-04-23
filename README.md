@@ -39,7 +39,7 @@ Don't bother - this project has reached its natural conclusion.
       
 ## Tests
       
-I recommend testing by using on an application such as this. Test in production!!!
+I recommend testing by using on an application such as this: Test in production!!!
       
 ## Questions
       
